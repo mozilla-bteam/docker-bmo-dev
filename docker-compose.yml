@@ -9,7 +9,7 @@ version: '2'
 services:
   bugzilla:
     container_name: bmo-dev
-    image: mozilla-bteam/bmo-dev
+    image: mozillabteam/bmo-dev
     ports:
       - "80:80"
       - "5900:5900"
