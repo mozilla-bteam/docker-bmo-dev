@@ -17,14 +17,6 @@ Visit [Docker][docker] and get Docker up and running on your system. Optionally
 you could install [Docker Compose](docker-compose)
 to help with setting up a new container.
 
-## How to build Bugzilla Docker image
-
-To build a fresh image, just change to the directory containing the checked out
-files and run the below command:
-
-```bash
-$ docker-compose build
-```
 ## How to start Bugzilla Docker image
 
 To start a new container (or rerun your last container) you simply do:
